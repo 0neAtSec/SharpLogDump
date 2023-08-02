@@ -61,6 +61,7 @@ namespace SharpLogDump
                 {
                     Console.WriteLine(@"
 SharpLogDump.exe:
+    https://github.com/0neAtSec/SharpLogDump
     Get the 4624 security logs of the local or remote server.
 Usage:
     SharpLogDump.exe -help
