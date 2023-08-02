@@ -1,7 +1,7 @@
 # SharpLogDump
 获取本地或远程服务器的4624日志(C#学习写着玩项目)
 ## 简介
-获取本地或远程服务器的4624日志，默认为-i 7天，查询用户为-f administrator
+获取本地或远程服务器的4624日志，默认为-i 7天，查询默认用户为-f administrator，默认条数-c 4
 ## 使用说明
 ```
 SharpLogDump.exe -help
@@ -14,6 +14,7 @@ Usage:
     SharpLogDump.exe -h dc-ip -u administrator -p password -d domain -f zhangsan
     execute-assembly /path/to/SharpLogDump.exe
 ```
+
 ## 免责声明
 本工具仅面向**合法授权**的企业安全建设行为，如您需要测试本工具的可用性，请自行搭建靶机环境。
 
