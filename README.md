@@ -14,6 +14,8 @@ Usage:
     SharpLogDump.exe -h dc-ip -u administrator -p password -d domain -f zhangsan
     execute-assembly /path/to/SharpLogDump.exe
 ```
+![图片](https://github.com/0neAtSec/SharpLogDump/assets/43740972/9ec63b6a-2c0a-4203-bc52-ef3f5cc11a18)
+![图片](https://github.com/0neAtSec/SharpLogDump/assets/43740972/f5b49a06-1640-40df-bd5a-efacadff23b3)
 
 ## 免责声明
 本工具仅面向**合法授权**的企业安全建设行为，如您需要测试本工具的可用性，请自行搭建靶机环境。
